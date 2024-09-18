@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KMFTw/cNMTAVuMYKqcvEPjagdBbqOnG45/XHztsaHsw=",
+  "Source": "zoo-backend",
+  "BasePath": "_content/zoo-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
