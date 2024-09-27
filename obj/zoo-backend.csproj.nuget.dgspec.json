@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\zoo_backend\\zoo-backend\\zoo-backend.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\zoo_BackEnd\\zoo-backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\zoo_backend\\zoo-backend\\zoo-backend.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\zoo_BackEnd\\zoo-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\zoo_backend\\zoo-backend\\zoo-backend.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\zoo_BackEnd\\zoo-backend.csproj",
         "projectName": "zoo-backend",
-        "projectPath": "C:\\Users\\User\\Desktop\\zoo_backend\\zoo-backend\\zoo-backend.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\zoo_BackEnd\\zoo-backend.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\zoo_backend\\zoo-backend\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\zoo_BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,14 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "MySqlConnector.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.3.6, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
